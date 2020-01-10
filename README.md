@@ -5,10 +5,10 @@ Personal projects practicing things I've recently learned, attempting new things
 
 
 ### January 9, 2020
-I reworked and finalized my *Clean Code* Markdown file and moved it into a folder I created locally to see how the file system worked within GitHub. Additionally, I started chapter 2 of *Clean Code*.
+I reworked and finalized my *Clean Code* Markdown file and moved it into a folder I created locally to see how the file system worked within GitHub. I read up on creating folders over the last few days and found out that an empty folder will not be stored/show up on GitHub. Additionally, I started chapter 2 of *Clean Code*.
 
 ### January 8, 2020
-I wrote up a reflection on chapter 1 of *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin.
+I wrote up a reflection on chapter 1 of *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin in a new Markdown file.
 
 ### January 7, 2020
 I created a new repository in GitHub using my new Raspberry Pi 4 (built last week). I used my terminal to download a Visual Studio Code remake made to support Raspian on a Linux platform. I spent time writing in my main README file which I will use as a sort of diary entry to briefly describe my daily activities.
