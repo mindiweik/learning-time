@@ -4,13 +4,16 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### January 13, 2020
+The focus today was reading more in *Clean Code*. I read chapter 2 which explored much about naming recommendations and suggestions for cleaner code and overall best practices which appears to apply to most every computer language.
+
 ### January 12, 2020
 Continuing from the lesson where I left off I completed lessons 5 - 8 from Learn Pythin the Hard Way. The most memorable lesson today was the information for additional ways to navigate through the directories using (cd ..) to go back 1 directory, (cd ../../..) to jump back 3+ directories, and the (pushd) and (popd) commands to save and jump to/through a list of saved directories.
 
 > Learn Python the Hard Way - Starting at [Lesson 5](https://learnpythonthehardway.org/book/appendix-a-cli/ex5.html)
 
 ### January 10, 2020
-To learn more about the terminal and the basics of Python, the site below was recommended. I spent time with lessons 1-4 in the free time I had today. Most memorable takeawy is that using the print working directoy (pwd) command will help you get your bearings and then the (cd ~) command will take you back to the home directory.
+To learn more about the terminal and the basics of Python, the site below was recommended. I spent time with lessons 1 - 4 in the free time I had today. Most memorable takeawy is that using the print working directoy (pwd) command will help you get your bearings and then the (cd ~) command will take you back to the home directory.
 
 > [Learn Python the Hard Way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html) - Starting with the advice to "SHUT UP AND TYPE ALL OF THIS IN." I dove into the first 4 lessons.
 
