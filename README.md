@@ -1,8 +1,13 @@
 # learning-time
-Personal projects practicing things I've recently learned, attempting new things, and sharing my research findings in my quest to learn something new each and every day!
+Personal projects practicing things I've recently learned, attempting new things, and sharing my research findings in my quest to learn something new each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
+
+### January 14, 2020
+My time today was spent reviewing some of my JavaScript notes and moving forward with the lessons from "Learn Python the Hard Way" getting through Exercise 12. In addition to practicing the other exercises as I continue through, I also spent time learning about making empty files with touch (or new-item for Windows), copying a file with cp, moving files around with mv, and viewing files with the less command.
+
+> Learn Python the Hard Way - Starting at [Lesson 9](https://learnpythonthehardway.org/book/appendix-a-cli/ex9.html)
 
 ### January 13, 2020
 The focus today was reading more in *Clean Code*. I read chapter 2 which explored much about naming recommendations and suggestions for cleaner code and overall best practices which appears to apply to most every computer language.
