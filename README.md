@@ -4,8 +4,16 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### January 21, 2020
+Today I completed the last few exercises, Lesson 13 - 15, from "Learn Python the Hard Way". At the end they have some reference material to continue working with Bash and/or the terminal. I played around with some of the commands to familiarize myself, including the info command, the exit command, removing a file and removing a directory, and streaming a file as well as paging up/down within said file.
+
+> Learn Python the Hard Way - Starting at [Lesson 13](https://learnpythonthehardway.org/book/appendix-a-cli/ex13.html)
+
+### January 15-16, 2020
+I spent these two days reviewing my noes on JavaScript, HTML and CSS.
+
 ### January 14, 2020
-My time today was spent reviewing some of my JavaScript notes and moving forward with the lessons from "Learn Python the Hard Way" getting through Exercise 12. In addition to practicing the other exercises as I continue through, I also spent time learning about making empty files with touch (or new-item for Windows), copying a file with cp, moving files around with mv, and viewing files with the less command.
+My time today was spent reviewing some of my JavaScript notes and moving forward with the lessons from "Learn Python the Hard Way" getting through Exercises 9 - 12. In addition to practicing the other exercises as I continue through, I also spent time learning about making empty files with touch (or new-item for Windows), copying a file with cp, moving files around with mv, and viewing files with the less command.
 
 > Learn Python the Hard Way - Starting at [Lesson 9](https://learnpythonthehardway.org/book/appendix-a-cli/ex9.html)
 
