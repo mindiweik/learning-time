@@ -4,6 +4,18 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### January 23, 2020
+Today I finished up the "Turtle Race!" project, including the final 2-3 challenges to try to figure out the code on your own. I was able to figure all of them out with some fiddling on my own except for 1: the "Dashed Lines" challenge. I knew it liekly needed to be a nested for loop, but wasn't entirely sure on the formatting and numbers so I did find an online resource to help me out with this. The final version of tyhe project should be available to view in my python-projects folder.
+
+*Over the last few days I have also continued to review my CSS and JavaScript coding notes.*
+
+> Raspberry Pi Intro to Python: [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
+
+### January 22, 2020
+Starting to learn more about the various programming languages available I am working on a vary basic project. One of the recommended introductory projects for Python was the "Turtle Race!" which I felt would be helpful to learn while also being lighthearted. Today I got to the "Racing Turtles" section of the tutorial.
+
+> Raspberry Pi Intro to Python: [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
+
 ### January 21, 2020
 Today I completed the last few exercises, Lesson 13 - 15, from "Learn Python the Hard Way". At the end they have some reference material to continue working with Bash and/or the terminal. I played around with some of the commands to familiarize myself, including the info command, the exit command, removing a file and removing a directory, and streaming a file as well as paging up/down within said file.
 
