@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# Final version can be found at: https://trinket.io/python/2e38f4a937?runOption=run
+
 from turtle import *
 from random import randint
 
