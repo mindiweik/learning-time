@@ -4,6 +4,15 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### January 29, 2020
+I continued working on the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate**. I am still in the "Applied Visual Design" section.
+
+### January 28, 2020
+After working on some of the [freecodecamp.org](https://www.freecodecamp.org/learn) trainings for another reason, I was recently reviewing the other available information and trainings they have and noticed there were many more structured HTML, CSS and JavaScript certifications. Therefore, I have decided to continue working these as I have already made some significant progress already. Picking up where I left off puts me in the middle of the **Responsive Web Design Certificate** starting at the "Applied Visual Design" section and making it through part 12/52.
+
+### January 24-26, 2020
+These last few days I was reviewing and reorganizing/rewriting all of my notes on HTML, CSS and JavaScript that I have accumulated thus far.
+
 ### January 23, 2020
 Today I finished up the "Turtle Race!" project, including the final 2-3 challenges to try to figure out the code on your own. I was able to figure all of them out with some fiddling on my own except for 1: the "Dashed Lines" challenge. I knew it liekly needed to be a nested for loop, but wasn't entirely sure on the formatting and numbers so I did find an online resource to help me out with this. The final version of tyhe project should be available to view in my python-projects folder.
 
