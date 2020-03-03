@@ -4,8 +4,19 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 2, 2020
+Time learning today was spent on parts 3-6 of 22 in the "Applied Accessibility" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series. This information is brand new to me and helpful in explaining more about what purposes each of the new HTML5 elements are best suited for.
+
+### February 25, 2020
+Today I am moving on to the "Applied Accessibility" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series. Not only do I recognize that accessibility is important for everyone to be able to get and navigate to all of the information for a company's website, it's also important for people who *rely the aid of their computer* to actually navigate a site and its contents. The world wide web should be accessible for all.
+
+In my learning session today I was able to complete parts 1-2 of 22 in this section. 
+
+### February 21, 2020
+After having lots of visitors come through our home and life this month I am back at it working on my coding experience. I picked back up on the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate**, completing parts 31-52 out of 52 in the "Applied Visual Design" section. In the last portion it focused a lot on CSS animations which has properties that are actually very similar to some of the video animations I learned in Adobe After Effects and other video editing programs I've toyed with over the years.
+
 ### January 30, 2020
-Moving forward with the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate**, I completed parts 20-30 out of 52.
+Moving forward with the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate**, I completed parts 20-30 out of 52 in the "Applied Visual Design" section.
 
 ### January 29, 2020
 I continued working on the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate**. I am still in the "Applied Visual Design" section completing 13-19 out of 52.
