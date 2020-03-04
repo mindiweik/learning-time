@@ -4,6 +4,13 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 3, 2020
+Today I pushed forward through the "Applied Accessibility" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series and completed the rest of this series (parts 7-22). 
+
+In addition to learning more about the elements introduced in HTML5, I also learned more about the importance of color design choices aside from the obvious "how does it look" method. By selecting the right contrast ratio, for instance, not only does it make the information more clear for those that see color easily, but it also allows for those with colorblindness to be able to glean information from the text and other important visual information from your web page. I also learned a lot about keyboard focus for keyboard-only users.
+
+My main takeaway from this lesson is that there are many levels of visual and auditory impairment that should be considered when building a site or web page and having good, solid logic when building it is the key. In all honesty I hadn't considered that the way screen readers and other tools operated ahd to do with the overall back-end code. I assumed it had to do with the way the particular devices worked on their own. Though, now that I know more about online accessibility it makes perfect sense that both sides have to work well together so that those with accessibility issues can still access the content in a usable format.
+
 ### March 2, 2020
 Time learning today was spent on parts 3-6 of 22 in the "Applied Accessibility" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series. This information is brand new to me and helpful in explaining more about what purposes each of the new HTML5 elements are best suited for.
 
