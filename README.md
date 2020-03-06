@@ -4,6 +4,11 @@ Personal projects practicing things I've recently learned, attempting new things
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 5, 2020
+A firm believer in continuity, I completed the second half of the "Responsive Web Design Principles" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series. Although this was a shorter series, I felt it was very informative on how to better integrate media while also making it responsive.
+
+Moving forward with my self-taught education I began the edX [CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course. Today I started with Week 0 and made it through part of the lecture, but also spent time setting up the repository for this course in GitHub to submit projects (which I will also share individually on my "learning-time" repo).
+
 ### March 4, 2020
 Moving on to the next section I completed the first half (2 out of 4) of the "Responsive Web Design Principles" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series. I have encountered media queries and responsive images, but it was great to actually learn more about how they operate.
 
