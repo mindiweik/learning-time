@@ -1,8 +1,13 @@
 # learning-time
-Personal projects practicing things I've recently learned, attempting new things, and sharing my research findings in my quest to learn something new each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
+Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
+
+### March 9, 2020
+I completed the lecture for Week 0 from the [CS50's Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course. The biggest takeaway I feel I got from this first lecture was actually understanding more about how binary works and that across the board all languages tend to follow a similar pattern with functions, conditions, loops, booleans, etc. to get the desired effect from the code. My next step here is to build a project in Scratch an interactive project to submit.
+
+Today I will start by brainstorming, selecting and planning the project of my choosing. Over the next 2-3 days I intend to design and finish my Scratch project and submit to the course as well as on my "learning-time" repo.
 
 ### March 5, 2020
 A firm believer in continuity, I completed the second half of the "Responsive Web Design Principles" section of the [freecodecamp.org](https://www.freecodecamp.org/learn) **Responsive Web Design Certificate** series. Although this was a shorter series, I felt it was very informative on how to better integrate media while also making it responsive.
