@@ -4,6 +4,19 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 10, 2020
+After much time spent brainstorming ideas yesterday, I thought over my top few ideas to determine which one is basic enough to complete in a short time frame, complex enough that it will be a challenge and teach me something, and - most importantly - would be engaging for a user. I've landed on a "DREAM-lib" using mad lib style to tell a sprite about a funny/weird dream you had. 
+
+I saw quite a few other examples of mad lib-style projects, but I would like to still try to make mine unique enough that it doesn't fall into the others. But, as I mentioned, I did want to complete this fairly quickly because there's so much yet to learn!
+
+So today I spent my time:
+- Reviewing my project ideas
+- Determining which idea fits the project best
+- Planning out the basics of the project
+- Making sure I plan for all of the requirements of the project
+
+Tomorrow I will begin building the code!
+
 ### March 9, 2020
 I completed the lecture for Week 0 from the [CS50's Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course. The biggest takeaway I feel I got from this first lecture was actually understanding more about how binary works and that across the board all languages tend to follow a similar pattern with functions, conditions, loops, booleans, etc. to get the desired effect from the code. My next step here is to build a project in Scratch an interactive project to submit.
 
