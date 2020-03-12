@@ -4,6 +4,13 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 11, 2020
+Using [Scratch](https://scratch.mit.edu/) online I started to build my project. I selected 2 sprites that will have a "conversation" about a dream. I sought sprites that had multiple costumes with poses that fit what I was hoping to achieve and found two fun dinosaurs.
+
+I then built out the beginning of the conversation with 2-second wait periods between their speech bubbles and added in the entry points, or questions the dino will ask the user, and made variables to collect the data the user will input to add into the madlib. 
+
+Tomorrow I will finish the conversation piece by building out the story and completing the conversation between the dinos. Ideally I would like to work on the costume changes as well and hope to figure those out. I also need to figure out how and where to add in a loop and a condition to the code as those are requirements in this project, but I want to get it mainly working first so that may happen over the next few days.
+
 ### March 10, 2020
 After much time spent brainstorming ideas yesterday, I thought over my top few ideas to determine which one is basic enough to complete in a short time frame, complex enough that it will be a challenge and teach me something, and - most importantly - would be engaging for a user. I've landed on a "DREAM-lib" using mad lib style to tell a sprite about a funny/weird dream you had. 
 
