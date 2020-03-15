@@ -4,10 +4,15 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 14, 2020
+Today I spent time correcting an error I was having with my sound loop during the part where my triceratops shares the dream story. After that I decided to add in 2 additional conditions with loops that made both dinosaurs animate while they moved to simulate walking and flying. I spent a few tries on my own and did some [Scratch](https://scratch.mit.edu/) research and eventually stumbled upon the answer to make them move while also animating. 
+
+> To view the project live, find it here: https://scratch.mit.edu/projects/375396726 | I have uploaded an updated version of my scratch project with this GitHub push, and this second version is the one I am submitting to the CS50 course for review.
+
 ### March 12, 2020
 Hours of work went into researching and building my "Dino Dream-lib" project in [Scratch](https://scratch.mit.edu/). I have added a scratch folder to keep the project in and intend to work more on it over the next few days to finalize some details, add in some others, and correct a few minor bugs I'm having.
 
->To view the project live, find it here: https://scratch.mit.edu/projects/375396726
+> To view the project live, find it here: https://scratch.mit.edu/projects/375396726
 
 ### March 11, 2020
 Using [Scratch](https://scratch.mit.edu/) online I started to build my project. I selected 2 sprites that will have a "conversation" about a dream. I sought sprites that had multiple costumes with poses that fit what I was hoping to achieve and found two fun dinosaurs.
