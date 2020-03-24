@@ -4,6 +4,18 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 23-24, 2020
+I finished the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C lecture and the first "Shorts" video, or followup lecture, which reviews the main data types in C and how to use them.
+
+### March 19, 2020
+With all of the issues with COVID-19 I've been oddly enough quite busy and only had time to move forward with another section of the same Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) lecture covering the language C. It's also a new language to me so I'm trying to listen thoroughly and take many notes for myself!
+
+### March 17, 2020
+I spent a few hours reviewing all of my notes for HTML, CSS and JavaScript to keep them fresh of mind.
+
+### March 16, 2020
+Now that I've submitted the assignment from Week 0 I wanted to jump into the Week 1 course from [CS50's Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/). I began the first lecture and made it partway through.
+
 ### March 14, 2020
 Today I spent time correcting an error I was having with my sound loop during the part where my triceratops shares the dream story. After that I decided to add in 2 additional conditions with loops that made both dinosaurs animate while they moved to simulate walking and flying. I spent a few tries on my own and did some [Scratch](https://scratch.mit.edu/) research and eventually stumbled upon the answer to make them move while also animating. 
 
