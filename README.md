@@ -4,6 +4,16 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 26, 2020
+I completed the "Conditional Statements", "Loops" and "Command Line" Shorts videos today from the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C lecture. Tomorrow I will work on the Problem Set given as homework for the C lesson.
+
+Although I have already learned a lot about these same concepts in my other learning sessions, I wanted to point out that I thought it would be helpful to learn about how they work in C because:
+1. I wanted to know if they act the same as the JS operators and conditionals and loops, etc.
+2. If C is one of the more old languages it would make sense that other languages likely derived *FROM* C, so knowing more about how C works could lend me to better understand 
+
+### March 25, 2020
+I completed the "Operators" Shorts video today from the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C lecture.
+
 ### March 23-24, 2020
 I finished the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C lecture and the first "Shorts" video, or followup lecture, which reviews the main data types in C and how to use them.
 
