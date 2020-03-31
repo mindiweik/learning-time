@@ -4,6 +4,9 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 30, 2020
+The next problem set from the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C section is the cash.c project. I began working on this today, starting with spec review and planning how it will operate. I laid all of the main groundwork, but will need to get to the algorithm portion tomorrow.
+
 ### March 27, 2020
 The first C Problem Set I approached was "Mario" which was recreating the pyramids from a Mario screen shot. This one was a challenge and I had a hard time figuring out how to start with it. Eventually I wrote out my pseudocode on my own notes (added into the code later and ran into some issues with the CS50 "Sandbox" not being synced up with the code I was writing which was frustrating at first, but once I figured it out made perfect sense. 
 
