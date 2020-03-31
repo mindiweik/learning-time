@@ -6,7 +6,9 @@ int main(void)
 {
     // Main labels
     float dollars;
-    int change = 0;
+    int change;
+    int coin;
+    int i;
 
     // Each coin type
     int quarter = 25;
@@ -24,33 +26,27 @@ int main(void)
     // Convert float input into int value
     int total = round(dollars * 100);
 
-    // Loop for quarters
-    while (total >= quarter)
+    // For loop
+    for (i = 0; i <= total; i++)
     {
-        total = total - quarter;
-        change++;
+        if (total >= 25) {
+            coin = quarter;
+        } else if (total < 25 || total >= 10) {
+            coin = dime;
+        } else if (total < 10 || total >= 5) {
+            coin = nickel;
+        } else {
+            coin = penny;
+        }
+
+        // Loop for coins
+        while (total >= 0)
+        {
+            total = total - coin;
+            change++;
+        }
     }
 
-    // Loop for dimes
-    while (total >= dime)
-    {
-        total = total - dime;
-        change++;
-    }
-    
-    // Loop for nickles
-    while (total >= nickel)
-    {
-        total = total - nickel;
-        change++;
-    }
-
-    // Loop for pennies
-    while (total >= penny)
-    {
-        total = total - penny;
-        change++;
-    }
 
     // Print # of coins
     printf("%i\n", change);

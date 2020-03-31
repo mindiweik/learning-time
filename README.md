@@ -4,6 +4,9 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### March 31, 2020
+I completed the cash.c project from the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C section. I will add this in my c-projects folder. I also decided to try to challenge myself with this one and looked for an alternative to the multiple while loops I initially wrote. I want to try to look for cleaner, more concise code opportunities. You will see this in cash1.c. At present this is not completely working. It runs and throws no errors, but the coin count is off, mainly by the pennies so there is something in the for loop that is not quite working. I will continue to work on this!
+
 ### March 30, 2020
 The next problem set from the Week 1 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) C section is the cash.c project. I began working on this today, starting with spec review and planning how it will operate. I laid all of the main groundwork, but will need to get to the algorithm portion tomorrow.
 
