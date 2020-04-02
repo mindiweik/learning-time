@@ -6,7 +6,7 @@ int main(void)
 {
     // Main labels
     float dollars;
-    int change;
+    int change = 0;
     int coin;
     int i;
 
