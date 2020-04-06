@@ -4,6 +4,20 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### April 6, 2020
+Moving on to the next project in the Week 2 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Problem Set is the Caesar project. This is an encrypted message problem using THE Caesar's method of manipulating the letter's location.
+
+Strangely enough - though not strange at all in reality because I'm practicing a lot - I'm beginning to understand C much easier and come up with my own solutions more quickly and smoothly I now notice. I was able to write out most of this one with just some referencing of my own notes, a few hints on newer elements and function concepts and understanding the basic concept fairly quickly.
+
+A majority of this solution code was pretty easy to write. I had the hardest time with the "wraparound" part when the ASCII code had to go from 'Z' or 'z' to 'A' or 'a' respectively. In the end I did some funky math workaround, though I'm sure there's a cleaner way to do it. I will likely come back to caesar.c (uploaded in my c-projects folder) and cash1.c after I complete all of my CS50 lessons.
+
+Tomorrow begins Week 3: Algorithms!
+
+### April 4-5, 2020
+I spent both days finishing up the 3 "Shorts" videos reviewing Functions, Arrays, and Command-Line Arguments. Then I started working on the first  Week 2 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Problem Set, readability. This program is supposed to analyze the user's text input to count the letters, words, and sentences in the text and use the Coleman-Liau method to determine the reading "Grade" level.
+
+It took a few iterations to make my new count functions work, but I was able to get each one working correctly.
+
 ### April 2, 2020
 I finished "Arrays" from the Week 2 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) lecture. Tommorrow I will continue with the 2 "Shorts" that are offered and will begin working on the problem sets for Week 2.
 
