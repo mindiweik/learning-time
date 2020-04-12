@@ -4,6 +4,15 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### April 10-12, 2020
+I dove into the Week 3 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) lecture regarding Algorithms. I learned about linear and binary search methods and the *O* or "on the order of" and omega and theta run times to consider when using an algorithm to build a function. Next they covered the different sort options and their best- and worst-case scenario run times, including:
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+
+Finally, the lecture covered recusrion. What is it? How to use it (base and recursive cases)? And how it functions within a Merge Sort. Now I will move onto the Problem Set 3 for this "week" over the next couple of days.
+
 ### April 6, 2020
 Moving on to the next project in the Week 2 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Problem Set is the Caesar project. This is an encrypted message problem using THE Caesar's method of manipulating the letter's location.
 
