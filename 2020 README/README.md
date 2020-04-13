@@ -4,6 +4,19 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### April 13, 2020
+The last few weeks, while most people were transferring to a WFH mode I was "kicked out" of my old office space and mainly using my laptop, but today I re-set up my Raspberry Pi 4 to continue learning in a more Linux-based environment.
+
+Today I worked on the Week 3 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Problem Set called plurality.c. Most of the program had been written, but we were tasked with writing the "vote" and "print+winner" functions. 
+
+After we learned about different forms or sorting and searching the vote boolean function was fairly easy to write, though I had a "brain fart" and got stuck briefly when I forgot that there was a strcmp function in the `<string.h>` library which would be used for the comparison of whether or not the `vote(string name)` was the same as the `candidates[i].name`. I reached out to peers in the Discord chat and someone quickly reminded me that there are string functions already created that would help me get the function working properly. I surely do appreciate collaboration! A fresh set of eyes can easily pinpoint a silly mistake.
+
+I admittedly did struggle in implementing the print_winner function at first because I knew what I wanted it to do, but wasn't sure initially how to implement it. I spent some time talking to my rubber duckie, Ranger Ron, to work through the problem and determined I needed 2 for loops:
+- one loop to determine which value in `candidates[k].votes` was the "max" number of votes (which would also change the "max" to said number) and then
+- a second loop to do a linear search to find and then print `if (candidates[k].votes >= max)`. 
+
+Because I sort of just decided to write ">=" in the program, I later wanted to test `if (candidates[k].votes = max)` would work. I quickly found out that it is incorrect because it does not account for the case of a tie. My realization was that `if (candidates[k].votes = max)` stops the linear search algorithm because once it finds the first value that matches it quits, whereas if it is >= it will keep going in the search. At least that is my understanding. If I'm wrong I will surely find out soon!
+
 ### April 10-12, 2020
 I dove into the Week 3 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) lecture regarding Algorithms. I learned about linear and binary search methods and the *O* or "on the order of" and omega and theta run times to consider when using an algorithm to build a function. Next they covered the different sort options and their best- and worst-case scenario run times, including:
 - Selection Sort
