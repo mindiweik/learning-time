@@ -4,6 +4,15 @@ Personal projects documenting things I am practicing from what I've recently lea
 *I am a total "newb" who is just trying to learn about new things that interest me! Please excuse any incorrect use of terms or language that may arise over time while I learn. I intend to cite and link whenever possible.*
 
 
+### April 14, 2020
+I began the next project in the Week 3 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Problem Set called runoff.c. This project has 6 different functions to write to hold a runoff election accurately. 
+
+Today I managed to write 2 of them: 
+1. the vote function - This function uses a 2-dimensional array to set each voter's preferrential rank for each candidate to be used in the case of a runoff.
+2. the tabulate function - This function first checks the preferred candidate for each voter to see if they are eliminated then adds a vote for the current top candidate choice who is not yet eliminated. 
+
+I also managed to write a little of the next function, print winner. I thus far have written the piece to compute the majority number of votes needed to win the runoff election and will continue with writing this function tomorrow. Ideally I will finish the remaining functions in this program to complete this project tomorrow.
+
 ### April 13, 2020
 The last few weeks, while most people were transferring to a WFH mode I was "kicked out" of my old office space and mainly using my laptop, but today I re-set up my Raspberry Pi 4 to continue learning in a more Linux-based environment.
 
