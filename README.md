@@ -1,5 +1,5 @@
 # learning-time
-Personal projects practicing things I've recently learned, attempting new things, and sharing my research findings in my quest to learn something new each and every day!
+Personal projects to practice things I've recently learned, attempt new things, and share my research findings in my quest to learn something new each and every day!
 
 Projects will be added to their own folder to keep them separated, labelled as *language*-projects.
 
