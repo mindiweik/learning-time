@@ -2,6 +2,9 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### April 19-20, 2020
+Over these two days I went over the 5 "Shorts" videos which further covered Hexadecimals, Pointers [in C], Dynamic Memory Allocation, Call Stacks and File Pointers [in C]. This was from the Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) regarding Memory.
+
 ### April 18, 2020
 I was able to finish the Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) lecture regarding Memory. Tomorrow I will work through the 5 "Shorts."
 
