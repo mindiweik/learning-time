@@ -2,6 +2,14 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### April 23, 2020
+First up is the grayscale filter for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set. I was able to compile everything fairly simply as this was one of the easier functions. I was mainly just averaging out each of the RGB numbers and resetting them to the averaged number, but I had some trouble with the round function in this first problem. I discovered through research and discussing with my peers that even when a float is declared, if you are only doing the math with integers C will kick out the decimal automatically. 
+
+The solution was *so* simple: change the 3 in `(image[i][j].rgbtRed + image[i][j].rgbtGreen + image[i][j].rgbtBlue) / 3` to 3.0. Voila! Today I learned that even something as simple as this will cause major problems within a function and is something to look out for if the math is off!
+
+### April 21, 2020
+I spent my time today reviewing all of the pre-made files for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set which is supposed to make four various filters for a .bmp image utilizing and manipulating a new RGBTRIPLE 2D array. Then I reviewed the specs for the problem and spent some time considering the problem and some implementation methods I could use.
+
 ### April 19-20, 2020
 Over these two days I went over the 5 "Shorts" videos which further covered Hexadecimals, Pointers [in C], Dynamic Memory Allocation, Call Stacks and File Pointers [in C]. This was from the Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) regarding Memory.
 
