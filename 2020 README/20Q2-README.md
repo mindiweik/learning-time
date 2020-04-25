@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### April 24, 2020
+The sepia function for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set actually came fairly easy to get me started for the day. It was a simple implementation of the given sepia formula and I had already created a pointer swap() function which allowed me to quickly and easily change the pixels upon completing the math. The reflection function I had a harder time with and am still a bit confused on, but I was able to get it to work. Once I complete the project I will review to see if I can better piece it together.
+
+However, I am now stuck on the blur function which takes the average of a set of 9 pixels to create new RGB numbers to blur the image. I'm not quite sure where I am going wrong yet and will need more time to figure this one out which I intend to do over the weekend.
+
 ### April 23, 2020
 First up is the grayscale filter for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set. I was able to compile everything fairly simply as this was one of the easier functions. I was mainly just averaging out each of the RGB numbers and resetting them to the averaged number, but I had some trouble with the round function in this first problem. I discovered through research and discussing with my peers that even when a float is declared, if you are only doing the math with integers C will kick out the decimal automatically. 
 
