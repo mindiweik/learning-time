@@ -2,6 +2,16 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### April 28, 2020
+After sleeping on it a couple of days I was elated (and also mildly frustrated) to finally figure out the last piece to the puzzle for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set. The blur filter I made needed "height - 1" and "width - 1" to be used in the edge and corner cases I made to be considered as the last index in the array. I imagined that might be the case, but had a hard time conceptualizing it initially. 
+
+Within my c-projects folder there is now a filter-project folder which holds all of the files needed to run the program for reference, but I only wrote the 5 functions within helpers.c ultimately.
+
+### April 25 & 27, 2020
+I spent these two days working on the blur function for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set. At this point I have it *almost* entirely working. I intend to continue working on it tomorrow and hope I can get it working!
+
+Admittedly I've tried quite a few solutions. In the end I've only been able to get this blur function to remotely work properly when I do a bunch of if/else if statements. I'm not proud of it presently. I feel like there is a better way to access each pixel and its surrounding pixels to create the blue effect, but thus far haven't been able to figure that out yet! This may be one problem I return to after I finish the program to build a better solution later.
+
 ### April 24, 2020
 The sepia function for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set actually came fairly easy to get me started for the day. It was a simple implementation of the given sepia formula and I had already created a pointer swap() function which allowed me to quickly and easily change the pixels upon completing the math. The reflection function I had a harder time with and am still a bit confused on, but I was able to get it to work. Once I complete the project I will review to see if I can better piece it together.
 
