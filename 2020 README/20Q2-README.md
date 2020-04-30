@@ -2,6 +2,13 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### April 29, 2020
+Over the last couple of weeks I have also been dabbling in a few other edX online courses pertaining to computer science and programming languages. I spent 2 weeks working through [CS50's Understanding Technology](https://courses.edx.org/courses/course-v1:HarvardX+CS50T+Technology/course/) and [CS50's Computer Science for Business Professionals](https://courses.edx.org/courses/course-v1:HarvardX+CS50B+Business/course/) to get a "bigger picture" overview on some of the basics because the CS50 Intro to Computer Science course dove in very deep right away. 
+
+Jumping off of that the CS50B course touched on SQL and NoSQL databases and I wanted to learn more about that so I started the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course to get a better grasp on this area. Today I made it through the first module which was basically an intro into what SQL, a datasbase, and data actually are and how to create an instance on the cloud using IBM Db2 on Cloud. I started in on module 2 as well, but will finish that tomorrow.
+
+I still have another problem set for Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) called recover.c which I plan to continue tomorrow and/or Friday.
+
 ### April 28, 2020
 After sleeping on it a couple of days I was elated (and also mildly frustrated) to finally figure out the last piece to the puzzle for the filter.c Week 4 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set. The blur filter I made needed "height - 1" and "width - 1" to be used in the edge and corner cases I made to be considered as the last index in the array. I imagined that might be the case, but had a hard time conceptualizing it initially. 
 
