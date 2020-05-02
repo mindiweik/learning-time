@@ -2,7 +2,7 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 ### May 1, 2020
-Modules 2 and 3 of the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course has been completed. I did 2 "labs" that had me use the [IBM Cloud](https://www.ibm.com/cloud) to create a database and begin by running SQL within the cloud. In the first lab I practiced using drop, create, insert, select, delete, and update on a test table I created. In the second lab I worked with groupings, strings, and ordering of data.
+Modules 2 and 3 of the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course has been completed. I did 2 "labs" that had me use the [IBM Cloud](https://www.ibm.com/cloud) to create a database and begin by running SQL within the cloud. In the first lab I practiced using drop, create, insert, select, delete, and update on a test table I created. In the second lab I worked with groupings, strings, and ordering of data. I am uploading some of the commands I worked on today from Module 3 in the new sql-projects folder.
 
 > This course has an access to the course end date of May 11 which is why I've shifted my focus. It has also been more enjoyable to jump back and forth and learn a lot of different things so I can keep learning even when I feel stuck or frustrated.
 
