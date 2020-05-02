@@ -1,6 +1,13 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### May 1, 2020
+Modules 2 and 3 of the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course has been completed. I did 2 "labs" that had me use the [IBM Cloud](https://www.ibm.com/cloud) to create a database and begin by running SQL within the cloud. In the first lab I practiced using drop, create, insert, select, delete, and update on a test table I created. In the second lab I worked with groupings, strings, and ordering of data.
+
+> This course has an access to the course end date of May 11 which is why I've shifted my focus. It has also been more enjoyable to jump back and forth and learn a lot of different things so I can keep learning even when I feel stuck or frustrated.
+
+### April 30, 3030
+This morning I read Chapter 3 of *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin. I updated my Reading-Clean-Code.md file with my takeaways in the 01reading folder.
 
 ### April 29, 2020
 Over the last couple of weeks I have also been dabbling in a few other edX online courses pertaining to computer science and programming languages. I spent 2 weeks working through [CS50's Understanding Technology](https://courses.edx.org/courses/course-v1:HarvardX+CS50T+Technology/course/) and [CS50's Computer Science for Business Professionals](https://courses.edx.org/courses/course-v1:HarvardX+CS50B+Business/course/) to get a "bigger picture" overview on some of the basics because the CS50 Intro to Computer Science course dove in very deep right away. 
