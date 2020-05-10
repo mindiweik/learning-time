@@ -1,6 +1,23 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+
+### May 10, 2020
+Again, when I have had spare time over these last few days I've been working through the Microsoft [Logic and Computational Thinking](https://courses.edx.org/courses/course-v1:Microsoft+DEV262x+1T2020a/course/) course. This has mainly been focusing on philosophy basics and logic and how they relate to computational thinking. Some examples were almost identical to how we write simple functions which was fascinating to see.
+
+Today I mainly focused on finishing up the second half of Module 4 from the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course. This portion taught me about sub-queries and a few different ways to access and connect multiple tables (which will also be covered in a future lesson). I uploaded the lab into the SQL-forDataScience folder.
+
+### May 6, 2020
+The [GitHub Satellite](https://githubsatellite.com) 2020 virtual event happened today and I joined in for most of that today just to hear more about how GitHub and the new partnerships and actions work from real people. It was a bit higher level than I thought, but I felt it was a good idea to hear more about it even in listening mode! 
+
+Over the last few days I have also been working on an additional online course I have that expires soon, Microsoft's [Logic and Computational Thinking](https://courses.edx.org/courses/course-v1:Microsoft+DEV262x+1T2020a/course/) course which covers different ways of philosophical thinking, particularly with computer programming and the "right" way of logical thinking. There were a lot of examples that I was able to link to the ways of writing pseudocode I've already been exposed to and that was a solid repetition.
+
+### May 5, 2020
+Today I completed up to the first lab in Module 4 of the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course. I uploaded the lab - which focused on practicing aggregate, scalar and string, and date and time built-in functions - to the SQL-forDataScience folder.
+
+### May 4, 2020
+I continued on with Module 4 of the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course today which covers additional functions, sub-queries and multiple tables. I will finish this section tomorrow.
+
 ### May 1, 2020
 Modules 2 and 3 of the [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course has been completed. I did 2 "labs" that had me use the [IBM Cloud](https://www.ibm.com/cloud) to create a database and begin by running SQL within the cloud. In the first lab I practiced using drop, create, insert, select, delete, and update on a test table I created. In the second lab I worked with groupings, strings, and ordering of data. I am uploading some of the commands I worked on today from Module 3 in the new sql-projects folder.
 
