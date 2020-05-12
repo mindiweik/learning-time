@@ -2,6 +2,19 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### May 11, 2020
+Today was the last day for those 2 courses I've been working on this past 2 weeks 
+> Microsoft [Logic and Computational Thinking](https://courses.edx.org/courses/course-v1:Microsoft+DEV262x+1T2020a/course/) course
+> [SQL for Data Science](https://courses.edx.org/courses/course-v1:IBM+DB0201EN+1T2020/course/) course
+
+I worked through the remaining portions of each to finish them. Here are the highlights:
+# Logic and Computational Thinking
+- After getting through philosophy basics it finally connected the dots between basic logic principles and computer programming. It was mainly just a reiteration of the main concepts and how they fit within computational thinking and programming.
+
+# SQL for Data Science
+- Module 5 explored more into how to access databases using Python and other DB-API connections. The first 2 labs created a connection in the IBM DB2 Cloud and then worked to connect a Jupyter notebook to access the instance. The following 2 labs showed how to use Python to further dive into SQL data and how to begin to analyze data using Python libraries (pandas, seaborn, matplotlib, etc.) within pre-made Jupyter notebooks in which to practice.
+- Module 6 covered more of the real world examples and a final project (I did not have time to complete because I was kicked out from the class due to a different time zone). I was able to complete the final "real world" module/example within the Jupyter notebook going over data from Chicago Public Schools to practice querying the data using Python in Jupyter notebooks.
+
 ### May 10, 2020
 Again, when I have had spare time over these last few days I've been working through the Microsoft [Logic and Computational Thinking](https://courses.edx.org/courses/course-v1:Microsoft+DEV262x+1T2020a/course/) course. This has mainly been focusing on philosophy basics and logic and how they relate to computational thinking. Some examples were almost identical to how we write simple functions which was fascinating to see.
 
