@@ -2,6 +2,9 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### May 13, 2020
+The last problem for Week 4 of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) has been completed. I worked on recover.c which is meant to recover lost images from a memory card. I had a hard time getting started on this one because I did take a bit longer of a break than I would have liked with the SQL course popping up in the middle, but my partner and I discussed that this is a good lesson because there will likely be interruptions in the workplace (other projects, putting occassional fires out, meetings, etc.) as well which may get in the way of remembering the priority of a project. I learned I - personally - should continue to take good notes because in this case I also needed a bit of a refresher on pointers and the new FILE operations from this lesson as well as getting back into writing a program. My notes were essential in putting me back on track!
+
 ### May 12, 2020
 I went back to the problem set for Week 4 of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/), recover.c. Today I read over the problem and instructions and spent the time getting it all set up and considering the problem.
 
