@@ -2,6 +2,9 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### May 12, 2020
+I went back to the problem set for Week 4 of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/), recover.c. Today I read over the problem and instructions and spent the time getting it all set up and considering the problem.
+
 ### May 11, 2020
 Today was the last day for those 2 courses I've been working on this past 2 weeks 
 > Microsoft [Logic and Computational Thinking](https://courses.edx.org/courses/course-v1:Microsoft+DEV262x+1T2020a/course/) course
