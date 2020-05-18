@@ -2,6 +2,18 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### May 18, 2020
+I spent time reading through all of the specs for the speller.c problem for the Week 5 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem and prepping the CS%) IDE to start writing the solution. The idea is to build the "fastest" spell-checker possible using a hash table for the program.
+
+### May 17, 2020
+Today I finished the final two videos of the Shorts videos, which summarized hash tables and tries.
+
+### May 16, 2020
+I continued working through the second of four Shorts video, summarizing singly-linked lists.
+
+### May 15, 2020
+I completed the main lecture for Week 5 of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) and started the first of four Shorts videos covering data structures in more detail.
+
 ### May 14, 2020
 I moved on to the lecture of Week 5 of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) which covers Data Structures. I made it through most of the lecture and will complete the lecture tomorrow and get set uo for the next problem set.
 
