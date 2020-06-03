@@ -1,6 +1,15 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 1-3, 2020
+After taking a break I jumped into the speller.c project. This is a spell-check project which requires 5 functions to be built out and run with no memory leaks. Functions are:
+- Load
+- Hash
+- Size
+- Check
+- Unload
+
+I've been working through the load and hash functions over the last 3 days. We are allowed to use alternative sources in the hash function and I found one in our Discord #speller channel that I understood and enjoyed the simplocity of the code. Currently both compile, but I feel I need to have more written out in order to adequately test the code adequately. I will continue writing out the remaining 3 functions.
 
 ### May 18, 2020
 I spent time reading through all of the specs for the speller.c problem for the Week 5 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem and prepping the CS%) IDE to start writing the solution. The idea is to build the "fastest" spell-checker possible using a hash table for the program.
