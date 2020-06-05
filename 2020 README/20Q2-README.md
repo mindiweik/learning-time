@@ -1,6 +1,9 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 5, 2020
+I was able to get all of the functions written to the point that I could compile "speller" and then spent a few hours debugging and reworking so that it worked properly. I now have a working spell checker! It functions, but could likely also be "prettier" so I may come back later to rewrite some of the pieces at some point.
+
 ### June 1-3, 2020
 After taking a break I jumped into the speller.c project. This is a spell-check project which requires 5 functions to be built out and run with no memory leaks. Functions are:
 - Load
