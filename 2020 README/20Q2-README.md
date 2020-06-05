@@ -5,7 +5,7 @@ Personal projects documenting things I am practicing from what I've recently lea
 I was able to get all of the functions written to the point that I could compile "speller" and then spent a few hours debugging and reworking so that it worked properly. I now have a working spell checker! It functions, but could likely also be "prettier" so I may come back later to rewrite some of the pieces at some point.
 
 ### June 1-3, 2020
-After taking a break I jumped into the speller.c project. This is a spell-check project which requires 5 functions to be built out and run with no memory leaks. Functions are:
+After taking a break I jumped into the speller.c project. This is a spell-check project which requires 5 functions to be built out [only in the dictionary.c file, the rest I cannot take credit for building] and run with no memory leaks. Functions are:
 - Load
 - Hash
 - Size
