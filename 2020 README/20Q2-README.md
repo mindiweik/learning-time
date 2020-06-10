@@ -1,6 +1,17 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 9, 2020
+Today I returned to the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course working through the Week 6 lecture. This week transitions into Python. Over the last few weeks I learned the basic patterns of computer science and programming which will translate into Python and other languages. 
+
+The trade off to consider, I learned, is that the speed at which you can write a program (like how quickly Python can be written in comparison to C) may also have an impact on it's run-time speed (C is much faster than Python because Python is using libraries and doing a lot of the work *for* developers to make writing quicker/smoother).
+
+### June 8, 2020
+I completed the "Welcome" section of the [ADAPT (Advancing Data & Analytics Potential Together)](https://www.alteryx.com/why-alteryx/alteryx-for-good/adapt-program) program which was mainly a very basic level introduction of Alteryx and what data and data science are overall.
+
+### June 7, 2020
+Recently I was introduced to a free data science training program through Alteryx called [ADAPT (Advancing Data & Analytics Potential Together)](https://www.alteryx.com/why-alteryx/alteryx-for-good/adapt-program). This weekend I signed up and today I received the license key and instructions on how to download, but it only runs on Windows so I spent the day creating a partition on my Mac using Boot Camp.
+
 ### June 5, 2020
 I was able to get all of the functions written to the point that I could compile "speller" and then spent a few hours debugging and reworking so that it worked properly. I now have a working spell checker! It functions, but could likely also be "prettier" so I may come back later to rewrite some of the pieces at some point.
 
