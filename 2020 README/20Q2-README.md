@@ -1,6 +1,19 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 11, 2020
+There was only 1 "Short" in this section which was mainly a review and a deeper dive into the differenes between Python and C. The problem set for this section involves rewriting a majority of the programs written in C, now to be written in Python. All of these rewritten programs can be found in the python-projects folder.
+
+There are 5 programs in total:
+1. hello.py - The first is a basic program just getting the user to input their name to say "hello, *Name*".
+2. mario.py - I recreated the 2 sets of hashed pyramids from the mario-more project I completed in C before.
+3. cash.py - This one was basically the same when rewriting it because I had a while loop for each coin size and a counter for the change to return. It was simple enough!
+4. readability.py - Originially I wrote this one with multiple functions, but I found it easier to write directly into the main function with Python. I had to debug a few minor items, but I was able to get it operating properly.
+5. dna.py - This one is a new program and not a recreation which I will complete tomorrow.
+
+### June 10, 2020
+Today I finished the Week 6 lecture for [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/).
+
 ### June 9, 2020
 Today I returned to the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course working through the Week 6 lecture. This week transitions into Python. Over the last few weeks I learned the basic patterns of computer science and programming which will translate into Python and other languages. 
 
