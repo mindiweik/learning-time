@@ -1,6 +1,9 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 12, 2020
+After reviewing all of the specs and thinking through the solution to the dna.py program in the Week 6 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set, I began writing. I made some headway with opening each of the files and working with the system arguments (argv) using sys. My next step will be reviewing the text file for the STRs followed by comparing the STRs in the csv file with the text file to determine a match, if any.
+
 ### June 11, 2020
 There was only 1 "Short" in this section which was mainly a review and a deeper dive into the differenes between Python and C. The problem set for this section involves rewriting a majority of the programs written in C, now to be written in Python. All of these rewritten programs can be found in the python-projects folder.
 
