@@ -1,6 +1,12 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 15, 2020
+After several hours working through lists in Python and learning more about the csv reader I was able to work through a solution to count the repititions and store them then find a way to compare them. I mainly struggled with the comparison because I was having a hard time figuring out how to get the "data" to change to an int and remain within a list. The solution is in the python-projects/pset6/dna folder.
+
+### June 14, 2020
+I worked a bit more on the dna.py project, but wasn't able to make much headway.
+
 ### June 12, 2020
 After reviewing all of the specs and thinking through the solution to the dna.py program in the Week 6 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set, I began writing. I made some headway with opening each of the files and working with the system arguments (argv) using sys. My next step will be reviewing the text file for the STRs followed by comparing the STRs in the csv file with the text file to determine a match, if any.
 
