@@ -1,8 +1,11 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+### June 22, 2020
+Over the last few days I was working through the Week 7 lecture and "short" video between returning back to work full-time. This lesson is a basic introduction to SQL.
+
 ### June 15, 2020
-After several hours working through lists in Python and learning more about the csv reader I was able to work through a solution to count the repititions and store them then find a way to compare them. I mainly struggled with the comparison because I was having a hard time figuring out how to get the "data" to change to an int and remain within a list. The solution is in the python-projects/pset6/dna folder.
+After several hours working through lists in Python and learning more about the csv reader I was able to work through a solution to count the repititions and store them then find a way to compare them. I mainly struggled with the comparison because I was having a hard time figuring out how to get the "data" to change to an int and remain within a list. The solution is in the python-projects/CS50-introComputerScience/pset6/dna folder.
 
 ### June 14, 2020
 I worked a bit more on the dna.py project, but wasn't able to make much headway.
