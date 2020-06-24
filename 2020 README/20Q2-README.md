@@ -1,6 +1,14 @@
 # learning-time Q2 2020
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
+
+### June 23, 2020
+Today I worked on the first task in the problem set for week 7 called Movies. The problem asks us to write 13 SQL queries using a database downloaded from IMDb. The first 11 queries were fairly easy, but I struggled with the last 2 queries which I intend to fix and complete tomorrow. 
+
+There was one error in those queries that I completed and submitted (7.sql) which I did fix. I had the results backwards (the rating should have come before the title rather than the other way around) and CS50 wanted it in descending order to get the highest ratings first. 
+
+Tomorrow I will complete queries 12.sql and 13.sql and re-submit the problem set. I will also upload all of the SQL query files once completed.
+
 ### June 22, 2020
 Over the last few days I was working through the Week 7 lecture and "short" video between returning back to work full-time. This lesson is a basic introduction to SQL.
 
