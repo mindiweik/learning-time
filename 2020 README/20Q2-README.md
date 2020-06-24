@@ -2,27 +2,32 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### June 24, 2020
+With a fresh eyes and mind it didn't take too much time to figure out the last 2, more difficult, SQL queries from the Movies problem set for Week 7 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/). For 12.sql I found INTERSECT and learned more about how it worked to find a person within both data sets. Then 13.sql took a few tries to get right, but in the end a nested query working within 3 of the tables worked out!
+
+Afterward I reviewed the info for the second task in the Week 7 problem set, called Houses. This is a Python program, the first called import.py, to be built to import data from a CSV for Hogwarts students and their houses and then a second Python program, called roster.py, which prints a list of students for a given house in alphabetical order.
+
 ### June 23, 2020
-Today I worked on the first task in the problem set for week 7 called Movies. The problem asks us to write 13 SQL queries using a database downloaded from IMDb. The first 11 queries were fairly easy, but I struggled with the last 2 queries which I intend to fix and complete tomorrow. 
+Today I worked on the first task in the problem set for week 7 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) called Movies. The problem asks us to write 13 SQL queries using a database downloaded from IMDb. The first 11 queries were fairly easy, but I struggled with the last 2 queries which I intend to fix and complete tomorrow. 
 
 There was one error in those queries that I completed and submitted (7.sql) which I did fix. I had the results backwards (the rating should have come before the title rather than the other way around) and CS50 wanted it in descending order to get the highest ratings first. 
 
 Tomorrow I will complete queries 12.sql and 13.sql and re-submit the problem set. I will also upload all of the SQL query files once completed.
 
 ### June 22, 2020
-Over the last few days I was working through the Week 7 lecture and "short" video between returning back to work full-time. This lesson is a basic introduction to SQL.
+Over the last few days I was working through the Week 7 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) lecture and "short" video between returning back to work full-time. This lesson is a basic introduction to SQL.
 
 ### June 15, 2020
-After several hours working through lists in Python and learning more about the csv reader I was able to work through a solution to count the repititions and store them then find a way to compare them. I mainly struggled with the comparison because I was having a hard time figuring out how to get the "data" to change to an int and remain within a list. The solution is in the python-projects/CS50-introComputerScience/pset6/dna folder.
+After several hours working through lists in Python and learning more about the csv reader I was able to work through a solution to count the repititions and store them then find a way to compare them. I mainly struggled with the comparison because I was having a hard time figuring out how to get the "data" to change to an int and remain within a list. The solution is in the python-projects/CS50-introComputerScience/pset6/dna folder. - [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 ### June 14, 2020
-I worked a bit more on the dna.py project, but wasn't able to make much headway.
+I worked a bit more on the dna.py project for Week 6 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/), but wasn't able to make much headway.
 
 ### June 12, 2020
 After reviewing all of the specs and thinking through the solution to the dna.py program in the Week 6 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set, I began writing. I made some headway with opening each of the files and working with the system arguments (argv) using sys. My next step will be reviewing the text file for the STRs followed by comparing the STRs in the csv file with the text file to determine a match, if any.
 
 ### June 11, 2020
-There was only 1 "Short" in this section which was mainly a review and a deeper dive into the differenes between Python and C. The problem set for this section involves rewriting a majority of the programs written in C, now to be written in Python. All of these rewritten programs can be found in the python-projects folder.
+There was only 1 "Short" in this Week 6 section of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) which was mainly a review and a deeper dive into the differenes between Python and C. The problem set for this section involves rewriting a majority of the programs written in C, now to be written in Python. All of these rewritten programs can be found in the python-projects folder.
 
 There are 5 programs in total:
 1. hello.py - The first is a basic program just getting the user to input their name to say "hello, *Name*".
