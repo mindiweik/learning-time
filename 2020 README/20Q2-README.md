@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### June 26, 2020
+My peers helped a lot with understanding the nuances of working with a SQL database within a Python script in the Week 7 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set called Houses. It was hard initially to reframe my brain from considering an index position to considering a row within a table, but after racking my brain I was able to collaborate a conclusion with the members in our Discord server. *They are really great at helping without giving away the answers directly!*
+
+The files for both the movies and the houses problem sets are uploaded into the python-projects>CS%)-introComputerScience>pset7 folder for reference.
+
 ### June 24, 2020
 With a fresh eyes and mind it didn't take too much time to figure out the last 2, more difficult, SQL queries from the Movies problem set for Week 7 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/). For 12.sql I found INTERSECT and learned more about how it worked to find a person within both data sets. Then 13.sql took a few tries to get right, but in the end a nested query working within 3 of the tables worked out!
 
