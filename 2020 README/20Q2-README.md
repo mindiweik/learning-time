@@ -2,6 +2,14 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### June 29, 2020
+Today I watched the first video in the web track which was the "HTTP" video. It was basically a review of how the internet talks between servers to re-lay that base knowledge.
+
+### June 28, 2020
+I finished the final main lecture for Week 8 of the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) which was mainly just a review and congratulations, but also laid out the basics of taking the next step in the course of deciding which "track" you want to take. 
+
+I am taking the web track.
+
 ### June 26, 2020
 My peers helped a lot with understanding the nuances of working with a SQL database within a Python script in the Week 7 [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) problem set called Houses. It was hard initially to reframe my brain from considering an index position to considering a row within a table, but after racking my brain I was able to collaborate a conclusion with the members in our Discord server. *They are really great at helping without giving away the answers directly!*
 
