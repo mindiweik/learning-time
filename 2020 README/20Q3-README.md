@@ -2,6 +2,17 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### July 9, 2020
+Another day spent inputting information as well as images within the 4 html documents for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Homepage project. I spent some time working on some of the basic CSS elements I know I wanted to incorporate as well: 
+- centered body
+- justified paragraphs in Rosie and Rigby's information pages
+- images to look a certain way and begin to be responsive
+- the "favorite things" table to have good spacing
+- consistent, albeit basic, font-family
+
+### July 8, 2020
+After a short break I started in on the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Homepage project by starting with setting up all 4 of the required html documents. I then added in most of the written information I planned to include and will work on finishing adding in the html pieces and then work on the styling this week.
+
 ### July 3, 2020
 Today I completed the "JavaScript" video for the web track section of [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) which was - again - a great refresher before moving onto the projects for the final section.
 
