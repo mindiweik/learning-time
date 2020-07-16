@@ -2,6 +2,17 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### July 16, 2020
+I spent time adding in some of the filler details I previously missed in the HTML document for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Homepage project.
+
+I also worked to fix up the CSS document to work on the more overall visuals like colors, background, and such. Prior work on the CSS document contained mainly just little details like the font and arrangement/layout elements.
+
+Here are some items I was having trouble with, but managed to figure out:
+- Two of my pages talking about my dogs individually had weird, extra spacing in the paragraphs. After looking through my code I realized my justify class added an additional padding around each of the entire paragraphs rather than just the sides which was what I initially intended so I incorporated padding-left and padding-right in the class to correct the error. 
+- Once I edited the visuals to include some blue standard links were then difficult to see. For a previous project I remembered finding some info on editing the link options and used the multiple options for hover, visited, etc. from [w3schools](https://www.w3schools.com/css/css_link.asp).
+
+I was able to get this simple project to a place where it is acceptable for it being a simple project. I may come back to make it "prettier" but for now it is functional and minimalistic. The project can be found in the html-projects folder and the html and css documents as well as the photos I used are all within the homepage-cs50 folder.
+
 ### July 9, 2020
 Another day spent inputting information as well as images within the 4 html documents for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Homepage project. I spent some time working on some of the basic CSS elements I know I wanted to incorporate as well: 
 - centered body
