@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### August 18-19, 2020
+After starting a new job I was ready to get back into programming. I am particularly excited to finish my final project for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/).
+
+Before diving in, there are a few videos showing more tools to be used to implement the final Finance project. Over these two days I worked through the Flask video. I learned how to use a layout.html document to make other html documents much shorter and easier to implement and make changes across all documents. I also learned how to build out the flask app using application.py and that you can use html, JavaScript, and python together to make a really interactive experience, even on a fairly simplistic level.
+
 ### July 16, 2020
 I spent time adding in some of the filler details I previously missed in the HTML document for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Homepage project.
 
