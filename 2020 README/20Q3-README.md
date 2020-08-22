@@ -2,6 +2,13 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### August 21, 2020
+The next video in the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Web Track covered Databases, adding together all of the knowledge built-up thus far to create a sample registration web app. This covered:
+- HTML pages, including a layout.html page for the basic HTML template
+- Python and Flask in am application.py file
+- SQL using a sqlite database to store the registrant information
+- Continued expansion of knowledge upon all of the above uses
+
 ### August 18-19, 2020
 After starting a new job I was ready to get back into programming. I am particularly excited to finish my final project for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/).
 
