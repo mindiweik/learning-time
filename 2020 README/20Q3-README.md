@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### August 25, 2020
+I watched the last major video which covered the overall aspects of the CS50 Finance project for the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Web Track. The "capstone" project if you will for the end of the course. I spent some time also beginning the setup steps to get started.
+
+It looks like most of this project will be building out HTML docs, including a layout.html file for the basic layout of each HTML file and the application.py file with flask implementation of the program's logistics itself. I'm looking forward to diving in!
+
 ### August 21, 2020
 The next video in the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) Web Track covered Databases, adding together all of the knowledge built-up thus far to create a sample registration web app. This covered:
 - HTML pages, including a layout.html page for the basic HTML template
