@@ -2,6 +2,12 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### September 22, 2020
+I reviewed what I learned yesterday and went through the steps on [repl.it](https://repl.it/@Minnie1214) project named "Skillshare-Tutorial". I reviewed the same videos and then watched Episode 5 to go over a bit of CSS for this little project.
+
+### September 21, 2020
+After attempting to work on the final CS50 project a few times I realize that I do not have a firm enough grasp on Flask at this time to be abl to feel confident going into the project. I spent today reviewing Flask and some HTML review on a [Skillshare](https://skl.sh/2HonVZs) course, Episodes 1-4.
+
 ### August 27, 2020
 I spent time setting up all of the documentation and reading through some of the HTML documents. I also added in the APT key for the IEX Cloud information and I read through the application.py document as well.
 
