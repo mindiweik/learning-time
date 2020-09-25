@@ -2,6 +2,9 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### September 24, 2020
+Episodes 7 and 8 were covered today from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. These episodes spent time organizing and connecting the python documents and the SQL database. I used [db4free.net](db4free.net) and SQLAlchemy for the database set-up.
+
 ### September 23, 2020
 Today I watched Episode 6 on the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. This episode started to tie the ways the different forms work together and used CSS, HTML, and python to get the basic pieces set up for the todo list app.
 
