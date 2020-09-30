@@ -2,6 +2,9 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### September 29, 2020
+The lessons for today (Episodes 9 and 10) from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course covered database access and writing to the database as well as creating new routes within the python documentation.
+
 ### September 24, 2020
 Episodes 7 and 8 were covered today from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. These episodes spent time organizing and connecting the python documents and the SQL database. I used [db4free.net](db4free.net) and SQLAlchemy for the database set-up.
 
