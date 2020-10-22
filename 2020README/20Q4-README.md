@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### October 21, 2020
+Continuing with the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course, episode 15 covered how to save and commit to the database. I then completed episode 16 which went over the login and registration HTML pages and the routes for the flask portion of the  web app. 
+
+I am actually excited about episode 16 and moving onto episode 17 as these are both covering how to login and this was where I began to feel overwhelmed in the [CS50 Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) final project for the Web Developmennt track.
+
 ### October 20, 2020
 This evening I worked through episodes 13 and 14 from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. Episode 13 covered how to add in a navigation bar. Then episode 14 covered how to write script to edit the items in the lists. This does not currently update the database itself, but we are going to cover that in the next lesson.
 
