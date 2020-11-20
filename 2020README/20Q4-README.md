@@ -2,6 +2,9 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### November 19, 2020
+Initially I reviewed the most recent episode I covered (episode 16) from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. Upon review, I moved on to continue the login and registration portions. I watched - and worked through - the first half of episode 17 which continued to build out the python files for login and registration.
+
 ### October 21, 2020
 Continuing with the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course, episode 15 covered how to save and commit to the database. I then completed episode 16 which went over the login and registration HTML pages and the routes for the flask portion of the  web app. 
 
