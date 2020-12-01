@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### November 30, 2020
+Reviewing and completing episode 17 of the the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course leaves me with a functioning register and login setup for the todo list app! There was a lot of troubleshooting to ensure things were still working properly. I also imported a few things into the wrong files so I found that and switched those around.
+
+I also reviewed my HTML, CSS and JavaScript notes from the last few months and intend to do so over the next couple of weeks.
+
 ### November 19, 2020
 Initially I reviewed the most recent episode I covered (episode 16) from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. Upon review, I moved on to continue the login and registration portions. I watched - and worked through - the first half of episode 17 which continued to build out the python files for login and registration.
 
