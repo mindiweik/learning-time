@@ -1,0 +1,9 @@
+.centered{
+    text-align:center;
+}
+
+#todoList{
+    text-align:left;
+    width:75%;
+    margin:auto;
+}
