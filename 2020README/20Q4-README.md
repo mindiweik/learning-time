@@ -2,6 +2,11 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### December 2, 2020
+Today I was able to finish up the basic Todo List project from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. I especially liked learning about always on and - in this case - how to use Uptime Robot which will ping the Repl.it project to keep it active so I can view and share with others.
+
+In the near future I'd like to actually edit the Homr page, add in a few other features, and ask friends and family to test it out and give feedback.
+
 ### November 30, 2020
 Reviewing and completing episode 17 of the the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course leaves me with a functioning register and login setup for the todo list app! There was a lot of troubleshooting to ensure things were still working properly. I also imported a few things into the wrong files so I found that and switched those around.
 
