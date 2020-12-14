@@ -2,11 +2,23 @@
 Personal projects documenting things I am practicing from what I've recently learned and sharing my research findings in my quest to learn something new about programming each and every day! I mainly use a Macbook Pro and a Raspberry Pi 4 running Raspian.
 
 
+### December 14, 2020
+Reviewed ES6 on freeCodeCamp.com](https://www.freecodecamp.org/learn).
+
+### December 12, 2020
+I reviewed JavaScript basics on [freeCodeCamp.com](https://www.freecodecamp.org/learn).
+
+### December 11, 2020
+I reviewed JavaScript basics on [freeCodeCamp.com](https://www.freecodecamp.org/learn).
+
+### December 10, 2020
+I reviewed JavaScript basics on [freeCodeCamp.com](https://www.freecodecamp.org/learn).
+
 ### December 8, 2020
-I reviewed JavaScript basics on [freecodecamp.com](https://www.freecodecamp.org/learn).
+I reviewed JavaScript basics on [freeCodeCamp.com](https://www.freecodecamp.org/learn).
 
 ### December 7, 2020
-I reviewed JavaScript basics on [freecodecamp.com](https://www.freecodecamp.org/learn).
+I reviewed JavaScript basics on [freeCodeCamp.com](https://www.freecodecamp.org/learn).
 
 ### December 2, 2020
 Today I was able to finish up the basic Todo List project from the Website Development With Python & Flask [Skillshare](https://skl.sh/2HonVZs) course. I especially liked learning about always on and - in this case - how to use Uptime Robot which will ping the Repl.it project to keep it active so I can view and share with others. I will upload the current version to GitHub.
